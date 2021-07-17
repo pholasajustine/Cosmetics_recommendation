@@ -21,6 +21,7 @@ Many products declare to be safe and healthy but which ones are really free from
 ## Content
 
 The dataset used is from Kaggle : "Cosmetics datasets". It's been web scrapped from Sephora. It contains 1472 rows and 11 columns.
+It contains product types, brands, names, ingredients, skin preference, price (in USD) and rating.
 
 
 <a name="links"></a>
