@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project - Safe comestics recommendation : 
+# Project - Safe cosmetics recommendation : 
 Amandine Gauberville & Justine PHOL-ASA 
 
 *[Data analytics PT, Paris & 17/07/2021 - 24/07/2021]*
