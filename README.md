@@ -31,7 +31,7 @@ We created a list of harmful substances from the ingredients listed in UFC- Que 
 
 ## Machine learning
 
-For answering to our problematic, we decided to use the cosine-similarity ML model. Our model gives us 10 similar  cosmetic products from product's output content-based.
+For answering to our problematic, we decided to use the cosine-similarity ML model. Our model gives us 10 similar  cosmetic products from product's input content-based.
 
 ## Links
 
