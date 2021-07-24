@@ -24,12 +24,14 @@ The dataset used is from Kaggle : "Cosmetics datasets". It's been web scrapped f
 It contains product types, brands, names, ingredients, skin preference, price (in USD) and rating.
 We created a list of harmful substances from the ingredients listed in UFC- Que choisir.
 
-https://drive.google.com/file/d/1z4dAHoN7Y9yZXxQG5rIcwNI7_IFcJf1P/view?usp=sharing
+[Codebook](https://drive.google.com/file/d/1z4dAHoN7Y9yZXxQG5rIcwNI7_IFcJf1P/view?usp=sharing)
 
 <a name="links"></a>
 
 ## Links
 
 [Repository](https://github.com/pholasajustine/Cosmetics_recommendation)  
+
 [Tableau](https://public.tableau.com/app/profile/gauberville.amandine/viz/Cosmeticsrecommendations/Cosmeticsrecommendationsstory)
+
 [Slides](https://drive.google.com/file/d/1VS6hYXr-AHUA_dAbAuW1Xo1OVnvzim5S/view?usp=sharing)    
