@@ -33,7 +33,7 @@ We created a list of harmful substances from the ingredients listed in UFC- Que 
 
 [Tableau](https://public.tableau.com/app/profile/gauberville.amandine/viz/Cosmeticsrecommendations/Cosmeticsrecommendationsstory)
 
-[Slides](https://drive.google.com/file/d/1VS6hYXr-AHUA_dAbAuW1Xo1OVnvzim5S/view?usp=sharing) 
+[Slides](https://docs.google.com/presentation/d/1z1G23GyCdhBC_8S5znftFD8cbTcb4lxsHXiSKX_FIGk/edit?usp=sharing) 
 
 ## Skin type presentation
 ![img](https://silkup.com/wp-content/uploads/2020/02/Copy-of-Fruits-Information-Campaign-Poster.png)
