@@ -15,9 +15,6 @@ Amandine Gauberville & Justine PHOL-ASA
 ## Context
 Many products declare to be safe and healthy but which ones are really free from harmful chemicals and toxins ? The list of ingredients to avoid is growing longer each year and it's hard to keep in mind each ingredient to be avoided. It's also not really convenient to have to scan the product with yuka each time you want to try a new product. This project aims to map cosmetic items based on their ingredients similarities and giving content-based filtering recommendation taking into account harmful chemicals and price. 
 
-## Skin type presentation
-![img](https://silkup.com/wp-content/uploads/2020/02/Copy-of-Fruits-Information-Campaign-Poster.png)
-
 <a name="content"></a>
 
 ## Content
@@ -36,4 +33,11 @@ We created a list of harmful substances from the ingredients listed in UFC- Que 
 
 [Tableau](https://public.tableau.com/app/profile/gauberville.amandine/viz/Cosmeticsrecommendations/Cosmeticsrecommendationsstory)
 
-[Slides](https://drive.google.com/file/d/1VS6hYXr-AHUA_dAbAuW1Xo1OVnvzim5S/view?usp=sharing)    
+[Slides](https://drive.google.com/file/d/1VS6hYXr-AHUA_dAbAuW1Xo1OVnvzim5S/view?usp=sharing) 
+
+## Skin type presentation
+![img](https://silkup.com/wp-content/uploads/2020/02/Copy-of-Fruits-Information-Campaign-Poster.png)
+
+
+
+   
